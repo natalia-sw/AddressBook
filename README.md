@@ -10,4 +10,10 @@
 - recipients and users data stored in TXT file
 
 ### Screenshots
+![log_in](doc/img/log_in_menu.png)
 
+![user_menu](doc/img/user_menu.png)
+
+![view_all](doc/img/view_all_contacts.png)
+
+![edit_contact](doc/img/edit_contact.png)

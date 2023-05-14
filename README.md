@@ -1,5 +1,5 @@
-# AdressBookOOP
-## Address book console app based on C++ (OOP).
+# AdressBook
+## Address book console app based on C++.
 
 ### Features:
 - signing up/in/out

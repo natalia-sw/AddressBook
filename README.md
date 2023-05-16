@@ -1,7 +1,9 @@
-# AdressBookOOP
-## Address book console app based on C++ (OOP).
+# AdressBook
 
-### Features:
+**Address book console app based on C++.**
+
+## Features
+
 - signing up/in/out
 - password changing
 - adding/removing/editing recipient
@@ -9,5 +11,12 @@
 - viewing all recipients list
 - recipients and users data stored in TXT file
 
-### Screenshots
+## Screenshots
 
+![log_in](doc/img/log_in_menu.png)
+
+![user_menu](doc/img/user_menu.png)
+
+![view_all](doc/img/view_all_contacts.png)
+
+![edit_contact](doc/img/edit_contact.png)
